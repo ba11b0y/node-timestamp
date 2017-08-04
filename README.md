@@ -13,28 +13,17 @@ Timestamp microservice
 
 Example usage:
 https://timestamp-ms.herokuapp.com/December%2015,%202015
+
 https://timestamp-ms.herokuapp.com/1450137600
+
 Example output:
 { "unix": 1450137600, "natural": "December 15, 2015" } 
 
 
-My Project
-------------
-
-On the front-end,
-- edit `public/client.js`, `public/style.css` and `views/index.html`
-- drag in `assets`, like images or music, to add them to the project
-
-On the back-end,
-- the app starts at `server.js`
-- add frameworks and packages in `package.json`
-- safely store app secrets in `.env` (nobody can see this but the and people I invite)
-
-
 Made and deployed on Glitch:
-Some information about Glitch.
 
-Welcome to the Glitch BETA
+
+Some information about Glitch.
 =========================
 
 Click `Show` in the header to see your app live. Updates to your code will instantly deploy and update live.
